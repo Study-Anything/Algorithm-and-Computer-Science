@@ -23,10 +23,18 @@
 ## week1 (5.3)
 | Level | Title    | Tag|
 | :---:   | :---: | :---: |
-| 2 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842?language=java)   | 완전탐색, 수학  |
-| 2 | [타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)| DFS |
+| 2 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)   | 완전탐색, 수학  |
+| 2 | [타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)| DFS/BFS |
 | 3 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | DFS/BFS  |
 
+---
+## week2 (5.10)
+| Level | Title    | Tag|
+| :---:   | :---: | :---: |
+| 2 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 완전탐색  |
+| 3 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | DFS/BFS  |
+| 3 | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | DP  |
+---
 ---
 ## weekN (M.D)
 | Level | Title    | Tag|
