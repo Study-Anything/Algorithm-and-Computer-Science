@@ -1,7 +1,6 @@
 # Algorithm
 자바 알고리즘 스터디 🔥(2023. 5. 3~)
 
-
 | <img src="https://user-images.githubusercontent.com/96612168/234839850-cb8b7ce6-cb11-4230-b83c-3325b075286b.png" alt="Example Image" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/96612168/234839402-a3ea010e-06f3-4255-8e33-9cf72b77fe40.png" alt="Example Image" width="100" height="100">    | <img src="https://user-images.githubusercontent.com/96612168/234839744-6c85274d-0021-4abf-85fa-52ca2fd5ff92.png" alt="Example Image" width="100" height="100">|
 | :---:   | :---: | :---: |
 | [이재현](https://github.com/versatile0010) | [김태혁](https://github.com/rlaxoqkf)  | [신희을](https://github.com/ShinHeeEul)  |
@@ -33,7 +32,7 @@
 | 1 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)   | 완전탐색, 수학  |
 | 2 | [타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)| DFS/BFS |
 | 3 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | DFS/BFS  |
-|extra| [스도쿠](https://www.acmicpc.net/problem/2580)| 백트래킹 |
+|extra| [스도쿠(백준2580)](https://www.acmicpc.net/problem/2580)| 백트래킹 |
 
 ---
 ## week2 (5.10)
@@ -42,7 +41,7 @@
 | 1 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 완전탐색  |
 | 2 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | DFS/BFS  |
 | 3 | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | DP  |
-|extra|[사이클 게임](https://www.acmicpc.net/problem/20040)| Union and Find|
+|extra|[사이클 게임(백준20040)](https://www.acmicpc.net/problem/20040)| Union and Find|
 ---
 ---
 ## weekN (M.D)
