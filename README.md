@@ -17,6 +17,8 @@
 - 1시간 동안 각자의 풀이 방법 / 아이디어, 어려웠던 점, 얻어간 점을 설명
 - 스터디 이전에 문제를 미리 풀어와도 좋으며, 그런 경우에는 스터디 시간 때 다음 주차의 문제를 풀이하는 시간을 가지면 됨.
 - 문제 난이도는 스터디 진행하면서 유동적으로 조정할 예정!
+- 문제 순서는 쉬운 것(1)부터 어려운 것(3)
+- extra 문제는 선택 사항
 
 ## 3️⃣문제풀이 플랫폼
 - 프로그래머스, 백준, 코드트리, 소프티어를 이용할 예정
@@ -26,23 +28,25 @@
 
 ---
 ## week1 (5.3)
-| Level | Title    | Tag|
+| No | Title    | Tag|
 | :---:   | :---: | :---: |
-| 2 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)   | 완전탐색, 수학  |
+| 1 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)   | 완전탐색, 수학  |
 | 2 | [타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)| DFS/BFS |
 | 3 | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | DFS/BFS  |
+|extra| [스도쿠](https://www.acmicpc.net/problem/2580)| 백트래킹 |
 
 ---
 ## week2 (5.10)
-| Level | Title    | Tag|
+| No | Title    | Tag|
 | :---:   | :---: | :---: |
-| 2 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 완전탐색  |
-| 3 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | DFS/BFS  |
+| 1 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 완전탐색  |
+| 2 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | DFS/BFS  |
 | 3 | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | DP  |
+|extra|[사이클 게임](https://www.acmicpc.net/problem/20040)| Union and Find|
 ---
 ---
 ## weekN (M.D)
-| Level | Title    | Tag|
+| No | Title    | Tag|
 | :---:   | :---: | :---: |
 | . | . | .  |
 ---
