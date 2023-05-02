@@ -27,6 +27,10 @@
 - IDE 사용을 자제하기
 
 
+## 5️⃣문제 선정 기준
+- 완전 탐색(구현/자료구조), 백트래킹, DP, 기본적인 그래프 알고리즘 , 최단경로, DFS/BFS, 기본적인 트리 알고리즘, 이분 탐색
+- 난이도: 백준 기준 실버 ~ 골드 상위 중 3 문제 선정
+
 #### [추천 문제집](https://www.acmicpc.net/workbook/view/14161)
 
 ---
@@ -47,6 +51,16 @@
 | 3 | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | DP  |
 |extra|[사이클 게임(백준20040)](https://www.acmicpc.net/problem/20040)| Union and Find|
 ---
+
+## week3 (5.17)
+| No | Title    | Tag|
+| :---:   | :---: | :---: |
+| 1 | [출근 경로](https://softeer.ai/practice/info.do?idx=1&eid=1529) | DFS, Graph  |
+| 2 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | DP  |
+| 3 | [입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | 이분 탐색, Parametric search  |
+---
+
+
 ---
 ## weekN (M.D)
 | No | Title    | Tag|
