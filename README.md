@@ -50,7 +50,14 @@
 | 2 | [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) | DFS/BFS  |
 | 3 | [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) | DP  |
 |extra|[사이클 게임(백준20040)](https://www.acmicpc.net/problem/20040)| Union and Find|
+
+[✏️유니온 파인드란?](https://rachel0115.tistory.com/entry/%EC%9C%A0%EB%8B%88%EC%98%A8-%ED%8C%8C%EC%9D%B8%EB%93%9C-Union-Find-Java)
+
+
 ---
+
+
+
 
 ## week3 (5.17)
 | No | Title    | Tag|
@@ -58,6 +65,9 @@
 | 1 | [출근 경로](https://softeer.ai/practice/info.do?idx=1&eid=1529) | DFS, Graph  |
 | 2 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | DP  |
 | 3 | [입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | 이분 탐색, Parametric search  |
+
+[✏️파라메트릭 서치란?](https://velog.io/@lake/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89-%ED%8C%8C%EB%9D%BC%EB%A9%94%ED%8A%B8%EB%A6%AD-%EC%84%9C%EC%B9%98Parametric-Search)
+
 ---
 
 
