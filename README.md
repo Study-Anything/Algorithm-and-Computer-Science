@@ -62,9 +62,9 @@
 ## week3 (5.17)
 | No | Title    | Tag|
 | :---:   | :---: | :---: |
-| 1 | [출근 경로](https://softeer.ai/practice/info.do?idx=1&eid=1529) | DFS, Graph  |
-| 2 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | DP  |
-| 3 | [입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | 이분 탐색, Parametric search  |
+| 1 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | DP  |
+| 2 | [입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | 이분 탐색, Parametric search  |
+| 3(Hard) | [출근 경로](https://softeer.ai/practice/info.do?idx=1&eid=1529) | DFS, Graph, SCC(Strongly Connected Component) |
 
 [✏️파라메트릭 서치란?](https://velog.io/@lake/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89-%ED%8C%8C%EB%9D%BC%EB%A9%94%ED%8A%B8%EB%A6%AD-%EC%84%9C%EC%B9%98Parametric-Search)
 
