@@ -67,6 +67,15 @@
 | 3(Hard) | [출근 경로](https://softeer.ai/practice/info.do?idx=1&eid=1529) | DFS, Graph, SCC(Strongly Connected Component) |
 
 [✏️파라메트릭 서치란?](https://velog.io/@lake/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89-%ED%8C%8C%EB%9D%BC%EB%A9%94%ED%8A%B8%EB%A6%AD-%EC%84%9C%EC%B9%98Parametric-Search)
+---
+
+
+## week4 (5.)
+| No | Title    | Tag|
+| :---:   | :---: | :---: |
+| 1 | [회전 초밥](https://www.acmicpc.net/problem/2531) | 구현, 투포인터 |
+| 2 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | 구현 |
+| 3 | [치킨 배달](https://www.acmicpc.net/problem/15686) | 구현 |
 
 ---
 
