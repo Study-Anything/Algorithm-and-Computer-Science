@@ -59,7 +59,7 @@
 
 
 
-## week3 (5.17)
+## week3 (5.18 목요일)
 | No | Title    | Tag|
 | :---:   | :---: | :---: |
 | 1 | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | DP  |
@@ -70,7 +70,7 @@
 ---
 
 
-## week4 (5.)
+## week4 (5.24 )
 | No | Title    | Tag|
 | :---:   | :---: | :---: |
 | 1 | [회전 초밥](https://www.acmicpc.net/problem/2531) | 구현, 투포인터 |
