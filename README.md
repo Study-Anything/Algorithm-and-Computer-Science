@@ -32,7 +32,7 @@
 - 난이도: 백준 기준 실버 ~ 골드 상위 중 3 문제 선정
 
 #### [추천 문제집](https://www.acmicpc.net/workbook/view/14161)
-
+#### [자바 코딩테스트 관련 팁](https://velog.io/@alstjdwo1601/Java-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B4%80%EB%A0%A8-%ED%8C%81#19-%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89--binarysearch%EC%9D%98-%EB%91%90%EA%B0%80%EC%A7%80-%EC%9C%A0%ED%98%95)
 ---
 ## week1 (5.3)
 | No | Title    | Tag|
