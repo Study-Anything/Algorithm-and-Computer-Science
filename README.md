@@ -70,12 +70,16 @@
 ---
 
 
-## week4 (5.24 )
+## week4 (5.24 수요일 예정) - 문제 수정함(05. 19)
 | No | Title    | Tag|
 | :---:   | :---: | :---: |
-| 1 | [회전 초밥](https://www.acmicpc.net/problem/2531) | 구현, 투포인터 |
-| 2 | [로봇 청소기](https://www.acmicpc.net/problem/14503) | 구현 |
-| 3 | [치킨 배달](https://www.acmicpc.net/problem/15686) | 구현 |
+| 1 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | DP |
+| 2 | [탈출](https://www.acmicpc.net/problem/3055) | 구현, 그래프 탐색 |
+| 3 | [미확인 도착지](https://www.acmicpc.net/problem/9370) | 최단 경로 |
+
+[✏️구간합이란?](https://www.crocus.co.kr/843#:~:text=%EC%93%B0%EC%9D%B4%EB%8A%94%20%EB%AC%B8%EC%A0%9C%EB%93%A4-,1.%20%EA%B5%AC%EA%B0%84%20%ED%95%A9(Prefix%20Sum)%EC%9D%B4%EB%9E%80%3F,%EA%B0%9C%EB%85%90%EC%9D%B4%20%ED%97%B7%EA%B0%88%EB%A6%B4%20%EB%95%8C%EA%B0%80%20%EC%9E%88%EB%8B%A4.&text=%EA%B5%AC%EA%B0%84%20%ED%95%A9%EC%9D%80%20a~b,%ED%95%A9%EC%9D%84%20%EC%9D%98%EB%AF%B8%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9D%B4%EB%8B%A4.)
+[✏️다익스트라란?](https://sskl660.tistory.com/59)
+
 
 ---
 
