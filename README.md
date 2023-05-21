@@ -1,7 +1,7 @@
 # Algorithm
 자바 알고리즘 스터디 🔥(2023. 5. 3~)
 
-| <img src="https://user-images.githubusercontent.com/96612168/234839850-cb8b7ce6-cb11-4230-b83c-3325b075286b.png" alt="Example Image" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/96612168/234839402-a3ea010e-06f3-4255-8e33-9cf72b77fe40.png" alt="Example Image" width="100" height="100">    | <img src="https://user-images.githubusercontent.com/96612168/234839744-6c85274d-0021-4abf-85fa-52ca2fd5ff92.png" alt="Example Image" width="100" height="100">|
+| 1 | 2    | 3 |
 | :---:   | :---: | :---: |
 | [이재현](https://github.com/versatile0010) | [김태혁](https://github.com/rlaxoqkf)  | [신희을](https://github.com/ShinHeeEul)  |
 
