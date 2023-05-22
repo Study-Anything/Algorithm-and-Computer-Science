@@ -39,7 +39,7 @@ public class Main {
             }
         } // input
 
-        // bfs ones w/ two queues
+        // bfs once w/ two queues
         boolean flag = false;
         while (!dochiQueue.isEmpty()) {
             if (flag) break;
