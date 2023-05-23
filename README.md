@@ -70,7 +70,7 @@
 ---
 
 
-## week4 (5.24 수요일 예정) - 문제 수정함(05. 19)
+## week4 (5.24 수요일) - 문제 수정함(05. 19)
 | No | Title    | Tag|
 | :---:   | :---: | :---: |
 | 1 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | DP |
@@ -82,7 +82,14 @@
 
 
 ---
-
+## week5 (5.31 수요일->변동 가능)
+| No | Title    | Tag|
+| :---:   | :---: | :---: |
+| 0 | [(선택)행렬 곱셈](https://www.acmicpc.net/problem/2740) | 구현, 수학 |
+| 1 | [(필수)마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) | 복잡한 구현 |
+| 2 | [(필수)파일 합치기](https://www.acmicpc.net/problem/11066) | DP  |
+| 3 | [(필수)숨바꼭질 4](https://www.acmicpc.net/problem/13913) | 그래프 탐색 |
+---
 
 ---
 ## weekN (M.D)
