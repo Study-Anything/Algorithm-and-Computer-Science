@@ -85,11 +85,19 @@
 ## week5 (5.31 수요일->변동 가능)
 | No | Title    | Tag|
 | :---:   | :---: | :---: |
-| 0 | [(선택)행렬 곱셈](https://www.acmicpc.net/problem/2740) | 구현, 수학 |
-| 1 | [(필수)마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) | 복잡한 구현 |
-| 2 | [(필수)파일 합치기](https://www.acmicpc.net/problem/11066) | DP  |
-| 3 | [(필수)숨바꼭질 4](https://www.acmicpc.net/problem/13913) | 그래프 탐색 |
+| 0 | [(선택) 행렬 곱셈](https://www.acmicpc.net/problem/2740) | 구현, 수학 |
+| 1 | [(필수) 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) | 복잡한 구현 |
+| 2 | [(필수) 파일 합치기](https://www.acmicpc.net/problem/11066) | DP  |
+| 3 | [(필수) 숨바꼭질 4](https://www.acmicpc.net/problem/13913) | 그래프 탐색 |
 ---
+
+## week6 (6.??)
+| No | Title    | Tag|
+| :---:   | :---: | :---: |
+| 0 | [(선택) 곱셈](https://www.acmicpc.net/problem/1629) | 분할 정복  |
+| 1 | [(필수) 행렬 제곱](https://www.acmicpc.net/problem/10830) | 분할 정복, 모듈러 합 공식  |
+| 2 | [(필수) 미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | 복잡한 구현  |
+| 3 | [(필수) 스티커](https://www.acmicpc.net/problem/9465) | DP  |
 
 ---
 ## weekN (M.D)
