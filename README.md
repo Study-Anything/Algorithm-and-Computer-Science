@@ -95,9 +95,11 @@
 | No | Title    | Tag|
 | :---:   | :---: | :---: |
 | 0 | [(선택) 곱셈](https://www.acmicpc.net/problem/1629) | 분할 정복  |
-| 1 | [(필수) 행렬 제곱](https://www.acmicpc.net/problem/10830) | 분할 정복, 모듈러 합 공식  |
+| 1 | [(필수) 행렬 제곱](https://www.acmicpc.net/problem/10830) | 분할 정복, 모듈러 합동식  |
 | 2 | [(필수) 미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | 복잡한 구현  |
 | 3 | [(필수) 스티커](https://www.acmicpc.net/problem/9465) | DP  |
+
+[✏️모듈러 합동식이란?](https://sskl660.tistory.com/75)
 
 ---
 ## weekN (M.D)
