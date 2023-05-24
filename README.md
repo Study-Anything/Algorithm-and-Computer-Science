@@ -80,6 +80,8 @@
 [✏️구간합이란?](https://www.crocus.co.kr/843#:~:text=%EC%93%B0%EC%9D%B4%EB%8A%94%20%EB%AC%B8%EC%A0%9C%EB%93%A4-,1.%20%EA%B5%AC%EA%B0%84%20%ED%95%A9(Prefix%20Sum)%EC%9D%B4%EB%9E%80%3F,%EA%B0%9C%EB%85%90%EC%9D%B4%20%ED%97%B7%EA%B0%88%EB%A6%B4%20%EB%95%8C%EA%B0%80%20%EC%9E%88%EB%8B%A4.&text=%EA%B5%AC%EA%B0%84%20%ED%95%A9%EC%9D%80%20a~b,%ED%95%A9%EC%9D%84%20%EC%9D%98%EB%AF%B8%ED%95%98%EB%8A%94%20%EA%B2%83%EC%9D%B4%EB%8B%A4.)
 [✏️다익스트라란?](https://sskl660.tistory.com/59)
 
+✉️ 위 미확인 도착지 문제는 다익스트라 알고리즘을 조금 응용한 것이라 어려우니,
+[이 문제(클릭!)](https://www.acmicpc.net/problem/1753)를 통해 다익스트라 알고리즘을 익혀보는 것을 추천한다.
 
 ---
 ## week5 (5.31 수요일->변동 가능)
