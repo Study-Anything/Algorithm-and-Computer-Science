@@ -9,7 +9,7 @@ public class Main {
     static int[] dy = {-1, -1, 0, 1, 1, 1, 0, -1};
 
     public static void main(String[] args) throws IOException {
-        System.setIn(new FileInputStream("src/input.txt"));
+        //System.setIn(new FileInputStream("src/input.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringTokenizer stk;
@@ -64,7 +64,7 @@ public class Main {
             for (int j = 1; j <= n; j++) {
                 if (graph[i][j].size() > 1) {
                     int total_mass = 0;
-                    int total_speed = 0;
+                    int total_velocity = 0;
                     boolean allEven = true;
                     boolean allOdd = true;
                     int cnt = 0;
@@ -76,7 +76,7 @@ public class Main {
                             allEven = false;
                         }
                         total_mass += ele.mass;
-                        total_speed += ele.speed;
+                        total_velocity += ele.velocity;
                         cnt++;
                     }
                     graph[i][j] = new ArrayList<>();
@@ -85,17 +85,17 @@ public class Main {
                         continue;
                     }
 
-                    int nspeed = total_speed / cnt;
+                    int nvelo = total_velocity / cnt;
                     if (allEven || allOdd) {
-                        graph[i][j].add(new fireBall(i, j, nmass, nspeed, 0));
-                        graph[i][j].add(new fireBall(i, j, nmass, nspeed, 2));
-                        graph[i][j].add(new fireBall(i, j, nmass, nspeed, 4));
-                        graph[i][j].add(new fireBall(i, j, nmass, nspeed, 6));
+                        graph[i][j].add(new fireBall(i, j, nmass, nvelo, 0));
+                        graph[i][j].add(new fireBall(i, j, nmass, nvelo, 2));
+                        graph[i][j].add(new fireBall(i, j, nmass, nvelo, 4));
+                        graph[i][j].add(new fireBall(i, j, nmass, nvelo, 6));
                     } else {
-                        graph[i][j].add(new fireBall(i, j, nmass, nspeed, 1));
-                        graph[i][j].add(new fireBall(i, j, nmass, nspeed, 3));
-                        graph[i][j].add(new fireBall(i, j, nmass, nspeed, 5));
-                        graph[i][j].add(new fireBall(i, j, nmass, nspeed, 7));
+                        graph[i][j].add(new fireBall(i, j, nmass, nvelo, 1));
+                        graph[i][j].add(new fireBall(i, j, nmass, nvelo, 3));
+                        graph[i][j].add(new fireBall(i, j, nmass, nvelo, 5));
+                        graph[i][j].add(new fireBall(i, j, nmass, nvelo, 7));
                     }
                 }
             }
@@ -120,17 +120,15 @@ public class Main {
             // 현재 파이어볼듣의 새로운 위치를 계산하자.
             int x = now.c;
             int y = now.r;
-            int v = now.speed;
+            int v = now.velocity;
 
-            int nx = x + dx[now.direction]*v%n;
-            int ny = y + dy[now.direction]*v%n;
+            int nx = (x + dx[now.direction]*v)%n;
+            int ny = (y + dy[now.direction]*v)%n;
 
-            if (nx > n) nx %= n;
-            if (ny > n) ny %= n;
             if (nx <= 0) nx = n - Math.abs(nx);
             if (ny <= 0) ny = n - Math.abs(ny);
 
-            now.update(ny, nx, now.mass, now.speed, now.direction);
+            now.update(ny, nx, now.mass, now.velocity, now.direction);
             graph[ny][nx].add(now);
         }
     }
@@ -139,22 +137,22 @@ public class Main {
         int r;
         int c;
         int mass; // 질량
-        int speed; // 속도
+        int velocity; // 속도
         int direction; // 방향
 
-        public fireBall(int r, int c, int mass, int speed, int direction) {
+        public fireBall(int r, int c, int mass, int velocity, int direction) {
             this.r = r;
             this.c = c;
             this.mass = mass;
-            this.speed = speed;
+            this.velocity = velocity;
             this.direction = direction;
         }
 
-        public void update(int r, int c, int mass, int speed, int direction) {
+        public void update(int r, int c, int mass, int velocity, int direction) {
             this.r = r;
             this.c = c;
             this.mass = mass;
-            this.speed = speed;
+            this.velocity = velocity;
             this.direction = direction;
         }
     }
