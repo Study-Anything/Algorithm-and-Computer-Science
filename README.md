@@ -100,6 +100,7 @@
 | 1 | [(필수) 도로 포장](https://www.acmicpc.net/problem/1162) | 다익스트라 + DP |
 | 2 | [(필수) 미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | 복잡한 구현  |
 | 3 | [(필수) 스티커](https://www.acmicpc.net/problem/9465) | DP  |
+| 4 | [(선택) DSLR](https://www.acmicpc.net/problem/9019)| DP + |
 
 [✏️모듈러 합동식이란?](https://sskl660.tistory.com/75)
 
