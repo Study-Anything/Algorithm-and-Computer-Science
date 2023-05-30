@@ -84,7 +84,7 @@
 [이 문제(클릭!)](https://www.acmicpc.net/problem/1753)를 통해 다익스트라 알고리즘을 익혀보는 것을 추천한다.
 
 ---
-## week5 (5.31 수요일->변동 가능)
+## week5 (5.31 수요일)
 | No | Title    | Tag|
 | :---:   | :---: | :---: |
 | 0 | [(선택) 행렬 곱셈](https://www.acmicpc.net/problem/2740) | 구현, 수학 |
