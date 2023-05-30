@@ -90,7 +90,7 @@
 | 0 | [(선택) 행렬 곱셈](https://www.acmicpc.net/problem/2740) | 구현, 수학 |
 | 1 | [(필수) 마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) | 복잡한 구현 |
 | 2 | [(필수) 파일 합치기](https://www.acmicpc.net/problem/11066) | DP  |
-| 3 | [(필수) 숨바꼭질 4](https://www.acmicpc.net/problem/13913) | 최단경로(BFS) + 경로  |
+| 3 | [(필수) 숨바꼭질 4](https://www.acmicpc.net/problem/13913) | 최단경로(BFS) + 경로 역추적  |
 ---
 
 ## week6 (6.??)
