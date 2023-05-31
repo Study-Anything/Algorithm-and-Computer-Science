@@ -93,16 +93,12 @@
 | 3 | [(필수) 숨바꼭질 4](https://www.acmicpc.net/problem/13913) | 최단경로(BFS) + 경로 역추적  |
 ---
 
-## week6 (6.??)
+## week6 (6.7 수요일)
 | No | Title    | Tag|
 | :---:   | :---: | :---: |
-| 0 | [(선택) 곱셈](https://www.acmicpc.net/problem/1629) | 분할 정복  |
-| 1 | [(필수) 도로 포장](https://www.acmicpc.net/problem/1162) | 다익스트라 + DP |
-| 2 | [(필수) 미세먼지 안녕!](https://www.acmicpc.net/problem/17144) | 복잡한 구현  |
-| 3 | [(필수) 스티커](https://www.acmicpc.net/problem/9465) | DP  |
-| 4 | [(선택) DSLR](https://www.acmicpc.net/problem/9019)| DP + 경로 역추적 |
-
-[✏️모듈러 합동식이란?](https://sskl660.tistory.com/75)
+| 1 | [(필수) 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | DP  |
+| 2 | [(필수) 가장 긴 증가하는 부분 수열4](https://www.acmicpc.net/problem/14002)| DP + 경로 역추적  |
+| 3 | [(선택) 도로 포장](https://www.acmicpc.net/problem/1162) | 다익스트라 + DP |
 
 ---
 ## weekN (M.D)
