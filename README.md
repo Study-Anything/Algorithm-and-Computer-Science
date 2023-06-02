@@ -53,11 +53,7 @@
 
 [✏️유니온 파인드란?](https://rachel0115.tistory.com/entry/%EC%9C%A0%EB%8B%88%EC%98%A8-%ED%8C%8C%EC%9D%B8%EB%93%9C-Union-Find-Java)
 
-
 ---
-
-
-
 
 ## week3 (5.18 목요일)
 | No | Title    | Tag|
@@ -104,10 +100,13 @@
 ### ※ 7주차는 기말고사 기간이니까 진행하지 않음. 😐
 
 ---
-## week8 (6.21?)
+## week8 (6.??)
 | No | Title    | Tag|
 | :---:   | :---: | :---: |
-| . | . | .  |
+| 1 | [스티커](https://www.acmicpc.net/problem/9465) | DP |
+| 2 | [오등큰수](https://www.acmicpc.net/problem/17299) | 자료구조 |
+| 3 | [구슬 탈출 2](https://www.acmicpc.net/problem/13460) | 복잡한 구현 |
+
 ---
 
 
