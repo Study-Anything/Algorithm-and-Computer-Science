@@ -110,5 +110,10 @@
 | 3 | [구슬 탈출 2](https://www.acmicpc.net/problem/13460) | 복잡한 구현 |
 
 ---
-
+## week? (?.??)
+| No | Title    | Tag|
+| :---:   | :---: | :---: |
+| 1 | [두 용액](https://www.acmicpc.net/problem/2470)  | a 와 b 합이 K |
+| 2 | [세 용액](https://www.acmicpc.net/problem/2473) | a+b+c = k |
+| 3 | [부분수열의 합2](https://www.acmicpc.net/problem/1208) | a0+a1+...+an = k |
 
