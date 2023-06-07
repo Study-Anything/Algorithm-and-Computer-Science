@@ -110,10 +110,18 @@
 | 3 | [구슬 탈출 2](https://www.acmicpc.net/problem/13460) | 복잡한 구현 |
 
 ---
-## week? (?.??)
+## week9 (?.??)
 | No | Title    | Tag|
 | :---:   | :---: | :---: |
 | 1 | [두 용액](https://www.acmicpc.net/problem/2470)  | a 와 b 합이 K |
 | 2 | [세 용액](https://www.acmicpc.net/problem/2473) | a+b+c = k |
 | 3 | [부분수열의 합2](https://www.acmicpc.net/problem/1208) | a0+a1+...+an = k |
+
+
+## week10 (?.??)
+| No | Title    | Tag|
+| :---:   | :---: | :---: |
+| 1 | [트리와 쿼리](https://www.acmicpc.net/problem/15681) | 트리에서의 DP (기본) |
+| 2 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | 트리에서의 DP (응용) |
+| 3 | [열쇠](https://www.acmicpc.net/problem/9328) | 복잡한 구현 |
 
