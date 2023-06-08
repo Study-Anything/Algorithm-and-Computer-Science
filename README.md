@@ -102,7 +102,7 @@
 ### ※ 7주차는 기말고사 기간이니까 진행하지 않음. 😐
 
 ---
-## week8 (6.??)
+## week8 (6.21. 수 - 변동가능)
 | No | Title    | Tag|
 | :---:   | :---: | :---: |
 | 1 | [스티커](https://www.acmicpc.net/problem/9465) | DP |
@@ -113,9 +113,11 @@
 ## week9 (?.??)
 | No | Title    | Tag|
 | :---:   | :---: | :---: |
-| 1 | [두 용액](https://www.acmicpc.net/problem/2470)  | a 와 b 합이 K |
-| 2 | [세 용액](https://www.acmicpc.net/problem/2473) | a+b+c = k |
-| 3 | [부분수열의 합2](https://www.acmicpc.net/problem/1208) | a0+a1+...+an = k |
+| 1 | [두 용액](https://www.acmicpc.net/problem/2470)  | a+b 가 K 에 가까운 a,b 찾기 |
+| 2 | [세 용액](https://www.acmicpc.net/problem/2473) | a+b+c 가 K 에 가까운 a,b,c 찾기 |
+| 3 | [부분수열의 합2](https://www.acmicpc.net/problem/1208) | a0+a1+...+an 가 k 인 경우의 수 탐색하기 |
+| 4 | [철로](https://www.acmicpc.net/problem/13334) | 자료구조 |
+
 
 
 ## week10 (?.??)
