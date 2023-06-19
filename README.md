@@ -102,28 +102,9 @@
 ### ※ 7주차는 기말고사 기간이니까 진행하지 않음. 😐
 
 ---
-## week8 (6.21. 수 - 변동가능)
+## week8 (6.21. 수)
 | No | Title    | Tag|
 | :---:   | :---: | :---: |
-| 1 | [스티커](https://www.acmicpc.net/problem/9465) | DP |
-| 2 | [오등큰수](https://www.acmicpc.net/problem/17299) | 자료구조 |
-| 3 | [구슬 탈출 2](https://www.acmicpc.net/problem/13460) | 복잡한 구현 |
+| 1 | [구슬 탈출 2](https://www.acmicpc.net/problem/13460) | 복잡한 구현 |
 
----
-## week9 (?.??)
-| No | Title    | Tag|
-| :---:   | :---: | :---: |
-| 1 | [두 용액](https://www.acmicpc.net/problem/2470)  | a+b 가 K 에 가까운 a,b 찾기 |
-| 2 | [세 용액](https://www.acmicpc.net/problem/2473) | a+b+c 가 K 에 가까운 a,b,c 찾기 |
-| 3 | [부분수열의 합2](https://www.acmicpc.net/problem/1208) | a0+a1+...+an 가 k 인 경우의 수 탐색하기 |
-| 4 | [철로](https://www.acmicpc.net/problem/13334) | 자료구조 |
-
-
-
-## week10 (?.??)
-| No | Title    | Tag|
-| :---:   | :---: | :---: |
-| 1 | [트리와 쿼리](https://www.acmicpc.net/problem/15681) | 트리에서의 DP (기본) |
-| 2 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | 트리에서의 DP (응용) |
-| 3 | [열쇠](https://www.acmicpc.net/problem/9328) | 복잡한 구현 |
 
