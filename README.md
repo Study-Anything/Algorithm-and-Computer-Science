@@ -1,9 +1,15 @@
 # Algorithm and Computer Science
 자바 알고리즘 + CS 스터디 🔥(2023. 5. 3~)
 
-| 1 | 2    | 3 |
-| :---:   | :---: | :---: |
-| [이재현](https://github.com/versatile0010) | [김태혁](https://github.com/rlaxoqkf)  | [신희을](https://github.com/ShinHeeEul)  |
+```
+05~06 : 알고리즘 집중 스터디
+07~ : 알고리즘(감유지) + CS(메인) 스터디
+여유가 된다면 대용량 트래픽 처리도 다룰 예정.
+```
+
+| 1 | 2 | 3 | 3 |
+| :---:   | :---: | :---: | :---: |
+| [이재현](https://github.com/versatile0010) | [김태혁](https://github.com/rlaxoqkf)  | [신희을](https://github.com/ShinHeeEul)  | 김혜원 |
 
 ## 1️⃣스터디 목적
 ```
@@ -11,19 +17,11 @@
 ```
 
 ## 2️⃣스터디 진행 규칙(06.27. 수정함)
-- 일정: 매주 수요일 오후 6시 ~ 8시 (유동적)
-- 1시간 동안 매주 할당된 문제를 풀이
-- 1시간 동안 한 문제 풀고, 1시간 동안 CS 스터디 진행(총 2시간)
-
-## 3️⃣문제풀이 플랫폼
-- 프로그래머스, 백준, 코드트리, 소프티어를 이용할 예정
-
-## 4️⃣문제 풀이 시 규칙
-- IDE 사용을 자제하기
+- 일정: <다시 정할 예정>
+- phase I : 알고리즘 랜덤으로 한 문제 풀고 리뷰 (1시간)
+- phase II : CS 스터디 진행 - [우테코톡](https://www.youtube.com/watch?v=YdE4krx0dsM&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH) 형식(1시간)
 
 
-## 5️⃣문제 선정 기준(06.27. 수정함)
-- 삼성 SW 역량 기출 문제 위주로 사용할 예정
 
 #### [추천 문제집](https://www.acmicpc.net/workbook/view/14161)
 #### [구현 연습하기](https://www.acmicpc.net/workbook/view/1152)
