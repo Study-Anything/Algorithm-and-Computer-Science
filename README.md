@@ -8,7 +8,7 @@
 여유가 된다면 대용량 트래픽 처리도 다룰 예정.
 ```
 
-| 1 | 2 | 3 | 3 |
+| 1 | 2 | 3 | 4 |
 | :---:   | :---: | :---: | :---: |
 | [이재현](https://github.com/versatile0010) | [김태혁](https://github.com/rlaxoqkf)  | [신희을](https://github.com/ShinHeeEul)  | 김혜원 |
 
