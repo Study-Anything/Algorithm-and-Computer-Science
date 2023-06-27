@@ -1,4 +1,4 @@
-# Algorithm and Computer Science
+# Algorithm and Computer Science Study for Coding Test / Tech. Interview
 자바 알고리즘 + CS 스터디 🔥(2023. 5. 3~)
 
 ```
