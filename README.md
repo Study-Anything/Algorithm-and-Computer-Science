@@ -18,9 +18,8 @@
 ```
 
 ## 2️⃣스터디 진행 규칙(06.27. 수정함)
-- 일정: <다시 정할 예정>
-- phase I : 알고리즘 랜덤으로 한 문제 풀고 리뷰 (1시간)
-- phase II : CS 스터디 진행 - [우테코톡](https://www.youtube.com/watch?v=YdE4krx0dsM&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH) 형식(1시간)
+- 일정: 매주 목요일 8시~ 대면 진행
+- CS 스터디 진행 - [우테코톡](https://www.youtube.com/watch?v=YdE4krx0dsM&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH) 형식(1시간)
 
 
 
@@ -92,3 +91,5 @@
 | 3 | [(선택) 도로 포장](https://www.acmicpc.net/problem/1162) | 다익스트라 + DP |
 
 ---
+
+
