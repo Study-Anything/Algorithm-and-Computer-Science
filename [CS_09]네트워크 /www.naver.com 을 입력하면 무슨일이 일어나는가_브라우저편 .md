@@ -2,9 +2,6 @@
 
 Created by: 이재현
 Created time: 2023년 7월 30일 오전 12:46
-
-## Q. [WWW.NAVER.COM](http://WWW.NAVER.COM) 을 입력하면 무슨 일이 일어나나요? (#1 브라우저 편)
-
 ---
 ![image](https://github.com/versatile0010/Algorithm-and-Computer-Science/assets/96612168/d69787a3-02ed-4d92-bc94-865fb87993fa)
 
@@ -39,7 +36,9 @@ Created time: 2023년 7월 30일 오전 12:46
 
 - 필요에 따라 Network thread 는 response 의 데이터 스트림을 읽는다.
     - response header 에서 content-type 을 확인한다.
+
 ![image](https://github.com/versatile0010/Algorithm-and-Computer-Science/assets/96612168/245dc100-e0c9-453a-b97e-0bd23e09f55a)
+
 
         - HTML 형식이면 Renderer process 에게 해당 파일을 전달할 준비를 한다.
         - HTML 이 아니면 Download manager 에게 파일을 전달할 준비를 한다.
